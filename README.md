@@ -1,9 +1,9 @@
-﻿# Lighthouse_DataScience
+
 # Nome do Projeto
-LH_CD_IAN_LUCAS_PERIGO_VIANNA
+Projeto de Análise exploratória de dados e Machine Learning com registros de plataforma de hospedagem da cidade de Nova Iorque.
 
 ## Descrição
-Projeto de ciência de dados e Machine learning para o processo seletivo para a vaga de trainee da LightHouse e Indicium.
+Projeto de ciência de dados e Machine learning para o processo seletivo para a vaga de trainee.
 Projeto feito entre o dia 15/02/2024 e 21/02/2024
 Autor do projeto: Ian Lucas Périgo Vianna
 
@@ -21,7 +21,7 @@ Consultar requeriments.txt
 1. Clone o repositório:
 
     ```bash
-    git clone [https://github.com/seu-usuario/seu-projeto.git](https://github.com/IanPerigoVianna/Lighthouse_DataScience.git)
+    git clone [https://github.com/seu-usuario/seu-projeto.git](https://github.com/IanPerigoVianna/MachineLearning.git)
     ```
 
 2. Navegue até o diretório do projeto:
