@@ -1,0 +1,23 @@
+folium==0.14.0
+matplotlib==3.7.1
+missingno==0.5.2
+nltk==3.8.1
+numpy==1.25.2
+pandas==1.5.3
+seaborn==0.13.1
+
+# As bibliotecas abaixo não têm versões especificadas
+folium.Marker
+keras.layers
+keras.models
+keras.optimizers
+math
+nltk.corpus
+nltk.stem
+nltk.tokenize
+scipy.spatial
+scipy.stats
+sklearn.feature_extraction.text
+sklearn.metrics
+sklearn.model_selection
+sklearn.preprocessing
