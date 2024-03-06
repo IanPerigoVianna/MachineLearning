@@ -1,6 +1,6 @@
 
 # Nome do Projeto
-LH_CD_IAN_LUCAS_PERIGO_VIANNA
+Projeto de Análise exploratória de dados e Machine Learning com registros de plataforma de hospedagem da cidade de Nova Iorque.
 
 ## Descrição
 Projeto de ciência de dados e Machine learning para o processo seletivo para a vaga de trainee.
